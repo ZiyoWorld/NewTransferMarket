@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #28a745;
+    margin: 15px;
+    
+    
+}
+.market{
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 12px;
+}
